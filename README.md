@@ -25,7 +25,7 @@ you will want to do the following to get the code running.
 2. Open 2 additional terminal in the same folder. In the second terminal run the hardhat node using
 `npx hardhat node`
 3. In the 3rd terminal deploy the smart contract uisng the command
-`npx hardhat run --network localhost scripts/deploy.js
+`npx hardhat run --network localhost scripts/deploy.js`
 4. Finally run the frontend using the command
 `npm run dev`
 5. Open the browser and navigate to http://localhost:3000
